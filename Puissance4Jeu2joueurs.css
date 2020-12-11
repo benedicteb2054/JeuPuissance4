@@ -1,0 +1,28 @@
+/* body{
+    background-color: rgba(0, 0, 0, 0.7);
+} */
+
+td{
+	background-color: rgba(73, 32, 32, 0.959);
+	width: 75px;
+	height: 75px;
+	position: relative;
+	margin: 5px;
+    text-align: center;
+}
+
+
+.joueur1, .joueur2{
+	border-radius: 50px;
+	height: 55px;
+	width: 55px;
+	display: inline-block;
+}
+
+.joueur1{
+	background-color: red;
+}
+
+.joueur2{
+	background-color: yellow;
+}
